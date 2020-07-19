@@ -12,3 +12,17 @@ which was originally forked from https://github.com/minimaxir/gpt-3-experiments 
 git clone https://github.com/ml4j/gpt-3-absolute-zero.git
 cd gpt-3-absolute-zero
 git submodule update --init
+
+```
+
+## Maintainer/Creator
+
+Michael Lavelle
+
+## License
+
+MIT
+
+## Disclaimer
+
+This repo has no affiliation with OpenAI.
